@@ -1,0 +1,8 @@
+C:\Users\David Williams\Desktop\School\csharp\lists_dicts_arrs\bin\Debug\netcoreapp1.1\lists_dicts_arrs.deps.json
+C:\Users\David Williams\Desktop\School\csharp\lists_dicts_arrs\bin\Debug\netcoreapp1.1\lists_dicts_arrs.runtimeconfig.json
+C:\Users\David Williams\Desktop\School\csharp\lists_dicts_arrs\bin\Debug\netcoreapp1.1\lists_dicts_arrs.runtimeconfig.dev.json
+C:\Users\David Williams\Desktop\School\csharp\lists_dicts_arrs\bin\Debug\netcoreapp1.1\lists_dicts_arrs.dll
+C:\Users\David Williams\Desktop\School\csharp\lists_dicts_arrs\bin\Debug\netcoreapp1.1\lists_dicts_arrs.pdb
+C:\Users\David Williams\Desktop\School\csharp\lists_dicts_arrs\obj\Debug\netcoreapp1.1\lists_dicts_arrs.AssemblyInfo.cs
+C:\Users\David Williams\Desktop\School\csharp\lists_dicts_arrs\obj\Debug\netcoreapp1.1\lists_dicts_arrs.dll
+C:\Users\David Williams\Desktop\School\csharp\lists_dicts_arrs\obj\Debug\netcoreapp1.1\lists_dicts_arrs.pdb
