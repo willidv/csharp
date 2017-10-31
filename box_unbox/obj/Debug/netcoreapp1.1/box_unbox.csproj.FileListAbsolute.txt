@@ -1,0 +1,8 @@
+C:\Users\David Williams\Desktop\School\csharp\box_unbox\bin\Debug\netcoreapp1.1\box_unbox.deps.json
+C:\Users\David Williams\Desktop\School\csharp\box_unbox\bin\Debug\netcoreapp1.1\box_unbox.runtimeconfig.json
+C:\Users\David Williams\Desktop\School\csharp\box_unbox\bin\Debug\netcoreapp1.1\box_unbox.runtimeconfig.dev.json
+C:\Users\David Williams\Desktop\School\csharp\box_unbox\bin\Debug\netcoreapp1.1\box_unbox.dll
+C:\Users\David Williams\Desktop\School\csharp\box_unbox\bin\Debug\netcoreapp1.1\box_unbox.pdb
+C:\Users\David Williams\Desktop\School\csharp\box_unbox\obj\Debug\netcoreapp1.1\box_unbox.AssemblyInfo.cs
+C:\Users\David Williams\Desktop\School\csharp\box_unbox\obj\Debug\netcoreapp1.1\box_unbox.dll
+C:\Users\David Williams\Desktop\School\csharp\box_unbox\obj\Debug\netcoreapp1.1\box_unbox.pdb
