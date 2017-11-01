@@ -1,0 +1,4 @@
+C:\Users\David Williams\Desktop\School\csharp\bin\Debug\netcoreapp1.1\csharp.deps.json
+C:\Users\David Williams\Desktop\School\csharp\bin\Debug\netcoreapp1.1\csharp.runtimeconfig.json
+C:\Users\David Williams\Desktop\School\csharp\bin\Debug\netcoreapp1.1\csharp.runtimeconfig.dev.json
+C:\Users\David Williams\Desktop\School\csharp\obj\Debug\netcoreapp1.1\csharp.AssemblyInfo.cs
