@@ -1,0 +1,8 @@
+C:\Users\David Williams\Desktop\School\csharp\testCsharp\bin\Debug\netcoreapp1.1\testCsharp.deps.json
+C:\Users\David Williams\Desktop\School\csharp\testCsharp\bin\Debug\netcoreapp1.1\testCsharp.runtimeconfig.json
+C:\Users\David Williams\Desktop\School\csharp\testCsharp\bin\Debug\netcoreapp1.1\testCsharp.runtimeconfig.dev.json
+C:\Users\David Williams\Desktop\School\csharp\testCsharp\bin\Debug\netcoreapp1.1\testCsharp.dll
+C:\Users\David Williams\Desktop\School\csharp\testCsharp\bin\Debug\netcoreapp1.1\testCsharp.pdb
+C:\Users\David Williams\Desktop\School\csharp\testCsharp\obj\Debug\netcoreapp1.1\testCsharp.AssemblyInfo.cs
+C:\Users\David Williams\Desktop\School\csharp\testCsharp\obj\Debug\netcoreapp1.1\testCsharp.dll
+C:\Users\David Williams\Desktop\School\csharp\testCsharp\obj\Debug\netcoreapp1.1\testCsharp.pdb

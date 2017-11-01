@@ -1,0 +1,8 @@
+C:\Users\David Williams\Desktop\School\csharp\Humans\bin\Debug\netcoreapp1.1\Humans.deps.json
+C:\Users\David Williams\Desktop\School\csharp\Humans\bin\Debug\netcoreapp1.1\Humans.runtimeconfig.json
+C:\Users\David Williams\Desktop\School\csharp\Humans\bin\Debug\netcoreapp1.1\Humans.runtimeconfig.dev.json
+C:\Users\David Williams\Desktop\School\csharp\Humans\bin\Debug\netcoreapp1.1\Humans.dll
+C:\Users\David Williams\Desktop\School\csharp\Humans\bin\Debug\netcoreapp1.1\Humans.pdb
+C:\Users\David Williams\Desktop\School\csharp\Humans\obj\Debug\netcoreapp1.1\Humans.AssemblyInfo.cs
+C:\Users\David Williams\Desktop\School\csharp\Humans\obj\Debug\netcoreapp1.1\Humans.dll
+C:\Users\David Williams\Desktop\School\csharp\Humans\obj\Debug\netcoreapp1.1\Humans.pdb
