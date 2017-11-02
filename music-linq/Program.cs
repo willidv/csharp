@@ -21,6 +21,7 @@ namespace ConsoleApplication
             var MVA = from artist in Artists 
             where artist.Hometown == "Mount Vernon" 
             select new {artist.ArtistName, artist.RealName};
+            Console.WriteLine(MVA);
 
             //Who is the youngest artist in our collection of artists?
             var Allyoungest = from artist in Artists
@@ -28,6 +29,7 @@ namespace ConsoleApplication
             select new {artist.ArtistName, artist.Age};
 
             var Theyoungest = Allyoungest.Take(1);
+            Console.WriteLine(Theyoungest);
 
             //Display all artists with 'William' somewhere in their real name
             var Wills = from artist in Artists
