@@ -1,0 +1,8 @@
+C:\Users\David Williams\Desktop\School\csharp\teams\bin\Debug\netcoreapp1.1\teams.deps.json
+C:\Users\David Williams\Desktop\School\csharp\teams\bin\Debug\netcoreapp1.1\teams.runtimeconfig.json
+C:\Users\David Williams\Desktop\School\csharp\teams\bin\Debug\netcoreapp1.1\teams.runtimeconfig.dev.json
+C:\Users\David Williams\Desktop\School\csharp\teams\bin\Debug\netcoreapp1.1\teams.dll
+C:\Users\David Williams\Desktop\School\csharp\teams\bin\Debug\netcoreapp1.1\teams.pdb
+C:\Users\David Williams\Desktop\School\csharp\teams\obj\Debug\netcoreapp1.1\teams.AssemblyInfo.cs
+C:\Users\David Williams\Desktop\School\csharp\teams\obj\Debug\netcoreapp1.1\teams.dll
+C:\Users\David Williams\Desktop\School\csharp\teams\obj\Debug\netcoreapp1.1\teams.pdb
